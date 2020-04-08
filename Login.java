@@ -5,5 +5,6 @@ public class Login {
 	int id;
 	String username;
 	String password;
+	String pavani;
 
 }
